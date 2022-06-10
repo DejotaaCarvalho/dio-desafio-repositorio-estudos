@@ -92,7 +92,7 @@ Acessar a branch master, e efetuar o merge utilizando squash
 ```bash
 git checkout master 
 git merge --squash feature/delete-user
-```  
+```
 
 Jogar os arquivos em uma branch temporaria
 ```bash
