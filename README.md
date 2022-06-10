@@ -1,2 +1,2 @@
-# dio-desafio-repositorio-estudos
-Estudos DIO
+# Estudos DIO
+Desafio para criar um repositório para estudos
