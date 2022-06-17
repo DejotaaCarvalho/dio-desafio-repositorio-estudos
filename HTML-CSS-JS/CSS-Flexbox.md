@@ -1,4 +1,4 @@
-## Então, o que realmente é CSS?
+## O que realmente é CSS?
 
 Assim como o HTML, o CSS não é realmente uma linguagem de programação. Também não é uma linguagem de marcação — é uma *linguagem de folhas de estilos*. Isso significa que o CSS permite aplicar estilos seletivamente a elementos em documentos HTML. Por exemplo, para selecionar **todos** os elementos parágrafo de uma página HTML e tornar o texto dentro deles vermelho, você escreveria este CSS:
 
@@ -340,3 +340,19 @@ A sintaxe e os valores possíveis para essa propriedade são apresentados a segu
 - **flex-end**: O item é deslocado para o final do eixo transversal;
 - **center**: O item é centralizado no eixo transversal;
 - **baseline**: O item é alinhado a partir da base da primeira linha de texto dos demais.
+
+
+
+
+
+## Referências:
+
+[CSS básico - Aprendendo desenvolvimento web | MDN (mozilla.org)](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/CSS_basics)
+
+[A Complete Guide to Flexbox | CSS-Tricks - CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+[CSS Flexbox Container (w3schools.com)](https://www.w3schools.com/csS/css3_flexbox_container.asp)
+
+[CSS Flexbox Items (w3schools.com)](https://www.w3schools.com/csS/css3_flexbox_items.asp)
+
+[CSS3 Flexbox: Funcionamento e propriedades (devmedia.com.br)](https://www.devmedia.com.br/css3-flexbox-funcionamento-e-propriedades/29532#grow)
